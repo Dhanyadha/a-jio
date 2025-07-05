@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Women Wear",
+      "image": "/images/women.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Men Wear",
+      "image": "/images/men.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Kids Wear",
+      "image": "/images/kids.jpg"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "name": "GAP",
+      "image": "/images/brand1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Levis",
+      "image": "/images/brand2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Aarong",
+      "image": "/images/brand3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zara",
+      "image": "/images/brand4.jpg"
+    }
+  ],
+  "trending": [
+    {
+      "id": 1,
+      "title": "Pastel Bloom",
+      "image": "/images/trend1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Chic Boss",
+      "image": "/images/trend2.jpg"
+    }
+  ],
+  "newIn": [
+    {
+      "id": 1,
+      "name": "Summer Dresses",
+      "image": "/images/new1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jumpsuits",
+      "image": "/images/new2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "T-Shirts & Tunics",
+      "image": "/images/new3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Kurtas & Kurtis",
+      "image": "/images/new4.jpg"
+    }
+  ]
+}
